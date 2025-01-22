@@ -1,16 +1,23 @@
-## Hi there 👋
+# Getting started in the world of data science. I am fascinated by biological topics.
+## More about me:
 
-<!--
-**AlanaJIES/AlanaJIES** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* :microscope: I’m a biologist enjoying a career transition into Data Science.
+* :office: I have a strong background in data analysis and specialize in creating predictive models tailored for businesses and organizations.
+* 🤖 Experienced in regression analysis, machine learning, and data masking techniques.
+* :bar_chart: Proficient in data visualization and creating actionable insights using tools like ggplot2 and Matplotlib
+* :speech_balloon: Strong communication skills for deliveing technical insights to non-technical audiences
+* 📫 Do you want to contact me? [<img src="https://img.shields.io/badge/-Linkedin-orange?style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/alan-david-jiménez-estrada-45b027346)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills: 
+:chart_with_upwards_trend: R (RStudio)
+
+:books: SQL
+
+🐍 Python
+
+🧠 Scikit Learn
+
+🐼 Pandas
+
+🧮 Numpy
